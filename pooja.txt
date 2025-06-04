@@ -5,7 +5,8 @@
         └── 📁fixtures
             └── 📁account
                 └── 📁2fa+
-                    
+             └── 📁email 
+                        └── bg-BG-dob.json 
                     └── 📁prompts
                         └── 2fa-required.json
                 └── 📁consents
