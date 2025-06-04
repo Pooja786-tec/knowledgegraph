@@ -17,6 +17,7 @@
                             └── cs-CZ-LF.json
                             └── cs-CZ.json
                             └── de-DE-noloyalty.json
+             └── 📁mail └── bg-BG-dob.json
                             └── de-DE.json
                             └── en-AT.json
                             └── en-BE-dob.json
