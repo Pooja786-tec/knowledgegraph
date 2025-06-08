@@ -1,57 +1,54 @@
 Introduction
   └── 📁 Java_Overview 
     └── 📁 Setup
-      └──jdk_installation.md
-      └──first_program.md
-      └──02_Fundamentals
-    └──📁 Syntax_and_Types
-      └──variables.md
-      └──data_types.md
-      └──type_casting.md
-    └── 📁 Operators_and_Statements
-      └──  operators.md
-      └── conditional_statements.md
-      └──  loops.md
-    └── 📁 Input_Output
-     └── scanner_class.md
-     └── bufferedreader.md
-     └──  03_Object_Oriented_Programming
-    └── 📁 Classes_Objects
-     └──class_structure.md
-     └──object_creation.md
-     └── constructors.md
-    └── 📁 Core_Principles
-   └──inheritance.md
-   └──polymorphism.md
-   └──encapsulation.md
-   └── abstraction.md
-  └── 📁 Keywords
- └──   this_keyword.md
-  └── super_keyword.md
- └──
+        └──jdk_installation.md
+        └──first_program.md
+        └──02_Fundamentals
+      └──📁 Syntax_and_Types
+        └──variables.md
+        └──data_types.md
+        └──type_casting.md
+      └── 📁 Operators_and_Statements
+        └──  operators.md
+        └── conditional_statements.md
+        └──  loops.md
+      └── 📁 Input_Output
+       └── scanner_class.md
+       └── bufferedreader.md
+       └──  03_Object_Oriented_Programming
+      └── 📁 Classes_Objects
+       └──class_structure.md
+       └──object_creation.md
+       └── constructors.md
+      └── 📁 Core_Principles
+       └──inheritance.md
+       └──polymorphism.md
+       └──encapsulation.md
+       └── abstraction.md
+      └── 📁 Keywords
+       └──   this_keyword.md
+       └── super_keyword.md
   04_Arrays_and_Strings
- └──     📁 Arrays
- └──single_dimensional.md
- └──multi_dimensional.md
- └── array_methods.md
- └──   └── 📁 Strings
- └──   string_class.md
- └──   stringbuilder.md
-  └── string_methods.md
- └──
+      └──  📁 Arrays
+       └──single_dimensional.md
+       └──multi_dimensional.md
+       └── array_methods.md
+      └── 📁 Strings
+       └──   string_class.md
+       └──   stringbuilder.md
+       └── string_methods.md
   05_Exception_Handling
- └──   try_catch_finally.md
- └──   throw_vs_throws.md
-  └── custom_exceptions.md
- └──
+       └──   try_catch_finally.md
+       └──   throw_vs_throws.md
+       └── custom_exceptions.md
   06_Collections_Framework
- └──     📁 List
- └──arraylist.md
- └── linkedlist.md
- └──     📁 Set
- └──hashset.md
- └── treeset.md
- └──     📁 Map
+      └── 📁 List
+       └── arraylist.md
+       └── linkedlist.md
+      └── 📁 Set
+       └── hashset.md
+       └── treeset.md
+      └── 📁 Map
  └──hashmap.md
  └── treemap.md
  └──   └── 📁 Queue
