@@ -1,18 +1,13 @@
-── 01_Introduction
-│   ├── 📁 Java_Overview
-│ │ ├── what_is_java.md
-│ │ ├── java_history.md
-│ │ └── java_features.md
-│   └── 📁 Setup
-│ ├── jdk_installation.md
-│ └── first_program.md
-│
-├── 02_Fundamentals
-│   ├── 📁 Syntax_and_Types
-│ │ ├── variables.md
-│ │ ├── data_types.md
-│ │ └── type_casting.md
-│   ├── 📁 Operators_and_Statements
+ 📁 Java_Overview 
+  └── 📁 Setup
+    └──jdk_installation.md
+    └──first_program.md
+    └──02_Fundamentals
+  └──📁 Syntax_and_Types
+    └──variables.md
+    └──data_types.md
+    └──type_casting.md
+  └── 📁 Operators_and_Statements
 │ │ ├── operators.md
 │ │ ├── conditional_statements.md
 │ │ └── loops.md
