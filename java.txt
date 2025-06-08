@@ -1,4 +1,5 @@
- 📁 Java_Overview 
+Introduction
+└── 📁 Java_Overview 
   └── 📁 Setup
     └──jdk_installation.md
     └──first_program.md
@@ -8,95 +9,94 @@
     └──data_types.md
     └──type_casting.md
   └── 📁 Operators_and_Statements
-│ │ ├── operators.md
-│ │ ├── conditional_statements.md
-│ │ └── loops.md
-│   └── 📁 Input_Output
-│ ├── scanner_class.md
-│ └── bufferedreader.md
-│
-├── 03_Object_Oriented_Programming
-│   ├── 📁 Classes_Objects
-│ │ ├── class_structure.md
-│ │ ├── object_creation.md
-│ │ └── constructors.md
-│   ├── 📁 Core_Principles
-│ │ ├── inheritance.md
-│ │ ├── polymorphism.md
-│ │ ├── encapsulation.md
-│ │ └── abstraction.md
-│   └── 📁 Keywords
-│ ├── this_keyword.md
-│ └── super_keyword.md
-│
-├── 04_Arrays_and_Strings
-│   ├── 📁 Arrays
-│ │ ├── single_dimensional.md
-│ │ ├── multi_dimensional.md
-│ │ └── array_methods.md
-│   └── 📁 Strings
-│ ├── string_class.md
-│ ├── stringbuilder.md
-│ └── string_methods.md
-│
-├── 05_Exception_Handling
-│ ├── try_catch_finally.md
-│ ├── throw_vs_throws.md
-│ └── custom_exceptions.md
-│
-├── 06_Collections_Framework
-│   ├── 📁 List
-│ │ ├── arraylist.md
-│ │ └── linkedlist.md
-│   ├── 📁 Set
-│ │ ├── hashset.md
-│ │ └── treeset.md
-│   ├── 📁 Map
-│ │ ├── hashmap.md
-│ │ └── treemap.md
-│   └── 📁 Queue
-│ ├── priorityqueue.md
-│ └── deque.md
-│
-├── 07_Multithreading
-│ ├── thread_basics.md
-│ ├── runnable_interface.md
-│ ├── thread_lifecycle.md
-│ └── synchronization.md
-│
-├── 08_File_IO_and_Serialization
-│ ├── file_read_write.md
-│ ├── file_streams.md
-│ └── object_serialization.md
-│
-├── 09_GUI_with_Swing
-│ ├── swing_intro.md
-│ ├── layout_managers.md
-│ ├── components.md
-│ └── event_handling.md
-│
-├── 10_Advanced_Topics
-│   ├── 📁 Generics_and_Collections
-│ │ ├── generics.md
-│ │ └── wildcards.md
-│   ├── 📁 Lambda_and_Streams
-│ │ ├── lambda_expressions.md
-│ │ └── streams_api.md
-│   └── 📁 JDBC_and_Annotations
-│ ├── jdbc_basics.md
-│ └── annotations.md
-│
-├── 11_Projects_and_Practice
-│   ├── 📁 Mini_Projects
-│ │ ├── student_record_system.md
-│ │ ├── calculator.md
-│ │ └── address_book.md
-│   └── 📁 Practice_Problems
-│ ├── oop_mcq.md
-│ ├── array_problems.md
-│ └── string_problems.md
-│
-├── 12_KnowledgeGraph_Metadata
-│   ├── concept_nodes.csv
-│   ├── relationships.csv
-│ └── ontology_schema.md
+    └──  operators.md
+    └── conditional_statements.md
+    └──  loops.md
+  └── 📁 Input_Output
+   └── scanner_class.md
+   └── bufferedreader.md
+   └──  03_Object_Oriented_Programming
+  └── 📁 Classes_Objects
+   └──class_structure.md
+   └──object_creation.md
+   └── constructors.md
+  └── 📁 Core_Principles
+   └──inheritance.md
+   └──polymorphism.md
+   └──encapsulation.md
+   └── abstraction.md
+  └── 📁 Keywords
+ └──   this_keyword.md
+  └── super_keyword.md
+ └──
+  04_Arrays_and_Strings
+ └──     📁 Arrays
+ └──single_dimensional.md
+ └──multi_dimensional.md
+ └── array_methods.md
+ └──   └── 📁 Strings
+ └──   string_class.md
+ └──   stringbuilder.md
+  └── string_methods.md
+ └──
+  05_Exception_Handling
+ └──   try_catch_finally.md
+ └──   throw_vs_throws.md
+  └── custom_exceptions.md
+ └──
+  06_Collections_Framework
+ └──     📁 List
+ └──arraylist.md
+ └── linkedlist.md
+ └──     📁 Set
+ └──hashset.md
+ └── treeset.md
+ └──     📁 Map
+ └──hashmap.md
+ └── treemap.md
+ └──   └── 📁 Queue
+ └──   priorityqueue.md
+  └── deque.md
+ └──
+  07_Multithreading
+ └──   thread_basics.md
+ └──   runnable_interface.md
+ └──   thread_lifecycle.md
+  └── synchronization.md
+ └──
+  08_File_IO_and_Serialization
+ └──   file_read_write.md
+ └──   file_streams.md
+  └── object_serialization.md
+ └──
+  09_GUI_with_Swing
+ └──   swing_intro.md
+ └──   layout_managers.md
+ └──   components.md
+  └── event_handling.md
+ └──
+  10_Advanced_Topics
+ └──     📁 Generics_and_Collections
+ └──generics.md
+ └── wildcards.md
+ └──     📁 Lambda_and_Streams
+ └──lambda_expressions.md
+ └── streams_api.md
+ └──   └── 📁 JDBC_and_Annotations
+ └──   jdbc_basics.md
+  └── annotations.md
+ └──
+  11_Projects_and_Practice
+ └──     📁 Mini_Projects
+ └──student_record_system.md
+ └──calculator.md
+ └── address_book.md
+ └──   └── 📁 Practice_Problems
+ └──   oop_mcq.md
+ └──   array_problems.md
+  └── string_problems.md
+ └──
+  12_KnowledgeGraph_Metadata
+ └──     concept_nodes.csv
+ └──     relationships.csv
+  └── ontology_schema.md
