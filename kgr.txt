@@ -10,10 +10,10 @@ Introduction
     └── 📁 Keywords
        └──   this_keyword.md
        └── super_keyword.md
-  04_Arrays_and_Strings
+  01_Arrays_and_Strings
     └──  📁 Arrays
     └── 📁 Strings
-  05_Exception_Handling
+  02_Exception_Handling
      └── 📁 List
        └── arraylist.md
        └── linkedlist.md
@@ -24,15 +24,14 @@ Introduction
        └── hashmap.md
        └── treemap.md
      └── 📁 Queue
-  07_Multithreading
-  08_File_IO_and_Serialization
-  09_GUI_with_Swing
-  10_Advanced_Topics
+  03_Multithreading
+  04_GUI_with_Swing
+  05_Advanced_Topics
     └── 📁 Generics_and_Collections
     └── 📁 Lambda_and_Streams
     └── 📁 JDBC_and_Annotations
-  11_Projects_and_Practice
+  06_Projects_and_Practice
    └── 📁 Mini_Projects
    └── 📁 Practice_Problems
-  12_KnowledgeGraph_Metadata
+  07_KnowledgeGraph_Metadata
      
