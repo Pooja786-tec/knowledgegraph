@@ -14,7 +14,6 @@ Introduction
     └──  📁 Arrays
     └── 📁 Strings
   05_Exception_Handling
-  06_Collections_Framework
      └── 📁 List
        └── arraylist.md
        └── linkedlist.md
